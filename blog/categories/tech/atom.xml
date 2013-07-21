@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: tech | Limmediat]]></title>
-  <link href="http://limmediat.github.io/blog/categories/tech/atom.xml" rel="self"/>
-  <link href="http://limmediat.github.io/"/>
-  <updated>2013-07-21T20:29:14+02:00</updated>
-  <id>http://limmediat.github.io/</id>
+  <link href="http://limmediat.ch/blog/categories/tech/atom.xml" rel="self"/>
+  <link href="http://limmediat.ch/"/>
+  <updated>2013-07-22T00:39:43+02:00</updated>
+  <id>http://limmediat.ch/</id>
   <author>
     <name><![CDATA[Rob]]></name>
     
@@ -14,19 +14,30 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Third post]]></title>
+    <link href="http://limmediat.ch/blog/2013/07/22/third-post/"/>
+    <updated>2013-07-22T00:12:00+02:00</updated>
+    <id>http://limmediat.ch/blog/2013/07/22/third-post</id>
+    <content type="html"><![CDATA[<p>And finally I think I&rsquo;m getting it ;)</p>
+
+<p>Cheers.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Second post]]></title>
-    <link href="http://limmediat.github.io/blog/2013/07/21/second-post/"/>
+    <link href="http://limmediat.ch/blog/2013/07/21/second-post/"/>
     <updated>2013-07-21T20:22:00+02:00</updated>
-    <id>http://limmediat.github.io/blog/2013/07/21/second-post</id>
+    <id>http://limmediat.ch/blog/2013/07/21/second-post</id>
     <content type="html"><![CDATA[<p>Well, it&rsquo;s not so easy&hellip; I almost prefer the simple &ldquo;Jekyll&rdquo; version&hellip;</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Trying to create a blog with Octopress]]></title>
-    <link href="http://limmediat.github.io/blog/2013/07/21/trying-to-create-a-blog-with-octopress/"/>
+    <link href="http://limmediat.ch/blog/2013/07/21/trying-to-create-a-blog-with-octopress/"/>
     <updated>2013-07-21T20:04:00+02:00</updated>
-    <id>http://limmediat.github.io/blog/2013/07/21/trying-to-create-a-blog-with-octopress</id>
+    <id>http://limmediat.ch/blog/2013/07/21/trying-to-create-a-blog-with-octopress</id>
     <content type="html"><![CDATA[<p>Hello World,</p>
 
 <p>Since yesterday evening I&rsquo;m trying to deploy a blog using GitHub.</p>

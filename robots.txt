@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://limmediat.github.io/sitemap.xml 
+Sitemap: http://limmediat.ch/sitemap.xml 
